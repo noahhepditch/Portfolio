@@ -12,7 +12,7 @@ Calculator:
 I coded a calculator! 
 
 Noah's Travel Agency Logo:
-I used canva to design a lofo for an imaginary company of mine! I love travel :)
+I used canva to design a logo for an imaginary company of mine! I love to travel :)
 
 Article: "Cree Coding" By: John Corbett:
 I read an article about the importance of inclusion in technology!
