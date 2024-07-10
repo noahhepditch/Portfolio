@@ -6,7 +6,7 @@ Number Guessing Game:
 I coded a number guessing game! My first time coding!
 
 Podcast: "Learning's Latest" By: Julia Young:
-I listned to a podcast to learn all about online learning!
+I listened to a podcast to learn all about online learning!
 
 Calculator:
 I coded a calculator! 
