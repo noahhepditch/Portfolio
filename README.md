@@ -23,7 +23,7 @@ I complted a course on project managament, and learned many new and exciting thi
 Podcast: "A Beginner’s Guide to Artificial Intelligence" By: Tyler Smith ft Matt Baker:
 I listened to a podcast that discussed the use of Artificial Intelligence, something I find fascinating:) 
 
-Canva Poster
+Canva Poster:
 I designed a poster that is an advertisment for my imaginary company, I included my logo into it as well. 
 
 
